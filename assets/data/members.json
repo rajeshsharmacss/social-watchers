@@ -1,0 +1,37 @@
+{
+  "lead": {
+    "name": "Rajesh Sharma",
+    "role": "Professor, Group Lead",
+    "photo": "images/lead-placeholder.jpg",
+    "email": "rajesh.sharma@example.edu",
+    "github": "https://github.com/yourusername",
+    "linkedin": "https://linkedin.com/in/yourprofile",
+    "bio": "Short bio/role text goes here."
+  },
+  "managers": [
+    {
+      "name": "Manager One",
+      "role": "Lab Manager",
+      "photo": "images/manager1.jpg",
+      "email": "manager1@example.edu",
+      "linkedin": "#"
+    },
+    {
+      "name": "Supervisor Two",
+      "role": "Supervisor",
+      "photo": "images/manager2.jpg",
+      "email": "manager2@example.edu",
+      "github": "#"
+    }
+  ],
+  "members": [
+    { "name": "Alice Doe", "role": "PhD", "photo": "images/member1.jpg" },
+    { "name": "Bob Lee", "role": "Postdoc", "photo": "images/member2.jpg" },
+    { "name": "Cara Kim", "role": "RA", "photo": "images/member3.jpg" },
+    { "name": "Deep Singh", "role": "RA", "photo": "images/member4.jpg" }
+  ],
+  "alumni": [
+    { "name": "Alumnus One", "role": "MS 2024", "now": "Company / PhD @ X" }
+  ]
+}
+
